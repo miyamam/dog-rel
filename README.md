@@ -1,8 +1,11 @@
 # Dog Relationship
+
+![Black toypoodle](Saku.JPG)
+
 Saku is a cute little poodle. He was born in 2nd May, 2022.
 This sample data describes relationships of his neighbor dogs.
 
-![alt text](image.png)
+![relationship image](image.png)
 
 ## SQL Database Graph Data
 Sample data for SQL Database or SQL Server Graph Data.
