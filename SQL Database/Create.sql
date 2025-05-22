@@ -31,7 +31,7 @@ INSERT INTO Dog VALUES
 INSERT INTO Dog VALUES 
     (8, 'Sora',3, 'Beagle', 'Female', 'Hound Color');
 INSERT INTO Dog VALUES 
-    (9, 'Suzu',3, 'Shiba', 'Female', 'Red');
+    (9, 'Suzu',3, 'Shiba', 'Female', 'Black');
 INSERT INTO Dog VALUES 
     (10, 'Lakshimi',3, 'Juck Russel Terrier', 'Female', 'White-brown');
 INSERT INTO Dog VALUES 
